@@ -1,2 +1,2 @@
 # stepik
-test stepik
+my first repository 
